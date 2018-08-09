@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: rgb(59, 64, 63);
+}
+div{
+  width: 400px;
+  height: 200px;
+}
+div img{
+  display: block;
+  margin: auto;
+}
+div p{
+  display: block;
+  padding: 10px 5px 10px 5px;
+  font-size: 16px;
+  color: rgb(218, 231, 198);
+}
